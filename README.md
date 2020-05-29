@@ -11,5 +11,5 @@
 
 ## Результат
 
-![Result](/img/result.PNG)
+![Result](/img/Снимок.PNG)
 
